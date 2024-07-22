@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
  const Read = () => {
     const [data,setData]=useState([]);
+    const a = 5;
     const [tableDark,setTableDark]=useState('');
     const [inputText,setInputText]=useState('');
     function getData(){
