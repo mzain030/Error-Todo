@@ -1,0 +1,17 @@
+.main{
+    /* background-color: green; */
+    height: auto;
+    width: 250px;
+    border: 2px solid blue;
+    font-size: 20px;
+    box-shadow: 2px 5px 8px black;
+}
+.main:hover{
+        /* background-color: green; */
+        height: auto;
+        width: 350px;
+        border: 2px solid red;
+        font-size: 30px;
+        box-shadow: 2px 5px 8px black;
+        color: blueviolet;
+}
